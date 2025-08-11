@@ -28,7 +28,7 @@ The goal was to build a visually accurate and responsive QR code component using
 ## Live Demo
 
 - Live Site: [Netlify Site](https://app.netlify.com/projects/blogcardpreview506/overview)
-- Frontend Mentor Solution Page: [Add Link Here](#)
+- Frontend Mentor Solution Page: [click here](https://www.frontendmentor.io/solutions/blog-card-preview-tailwind-NWcrWHaeJk)
 
 ## What I Learned
 
