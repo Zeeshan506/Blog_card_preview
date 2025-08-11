@@ -15,8 +15,8 @@ The goal was to build a visually accurate and responsive QR code component using
 
 ## Screenshot
 
-![Project Screenshot](assets\images\image_desktop.png)
-![Project Screenshot Mobile](assets\images\image_mobile.png)
+![Project Screenshot](assets/images/image_desktop.png)
+![Project Screenshot Mobile](assets/images/image_mobile.png)
 
 ## Built With
 
